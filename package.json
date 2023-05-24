@@ -1,0 +1,29 @@
+{
+  "name": "boostrap-row-spacer",
+  "version": "1.0.0",
+  "description": "\"Bootstrap Row Spacer\" is a library that allows you to easily add vertical spacing between rows in your Bootstrap projects, enhancing content organization and readability, and providing greater control over the spacing in your web design.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pookdeveloper/boostrap-row-spacer.git"
+  },
+  "author": "pookdeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pookdeveloper/boostrap-row-spacer/issues"
+  },
+  "homepage": "https://github.com/pookdeveloper/boostrap-row-spacer#readme",
+  "keywords": [
+    "npm",
+    "package",
+    "bootstrap-row-spacer",
+    "bootstrap",
+    "spacer"
+  ],
+  "files": [
+    "sass",
+    "bootstrap-row-spacer.scss"
+  ]
+}
